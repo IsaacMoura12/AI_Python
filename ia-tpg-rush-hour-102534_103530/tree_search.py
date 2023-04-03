@@ -1,8 +1,3 @@
-"""
-Authors:
-Rafael Gonçalves (102534)
-André Butuc (103530)
-"""
 
 from time import time
 import heapq
